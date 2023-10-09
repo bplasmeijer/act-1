@@ -42,7 +42,7 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
 
-      - name: Run a multi-line script
+      - name: ls la
         run: |
           ls -la act-1
           ls -la act-2
