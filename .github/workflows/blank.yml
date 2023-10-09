@@ -44,6 +44,8 @@ jobs:
 
       - name: ls la
         run: |
+          echo "act-1"
           ls -la act-1
+          echo "act-2"
           ls -la act-2
 
